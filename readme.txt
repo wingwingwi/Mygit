@@ -17,5 +17,9 @@ Creating a new branch is quick AND simple.
 
 sdsdsdsdsddfgfg5666888
 
+<<<<<<< Updated upstream
 
 wo xianzai shizai  master
+=======
+wo zhengzai dev  shang xiugai 
+>>>>>>> Stashed changes
