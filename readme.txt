@@ -8,4 +8,4 @@ dasdsdsad hahdaf a
 
 创建一个分支
 
-wode na \
+Creating a new branch is quick & simple.
