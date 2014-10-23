@@ -8,4 +8,8 @@ dasdsdsad hahdaf a
 
 创建一个分支
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
